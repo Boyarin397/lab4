@@ -1,5 +1,6 @@
 import math
 
+
 p = 1 
 
 for n in range(1, 21):
